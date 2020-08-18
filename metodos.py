@@ -1,4 +1,4 @@
-import dicionario
+import dicionario as dicionario
 
 def initArray(arquivo):
     dados=[] 
@@ -10,22 +10,55 @@ def initArray(arquivo):
     return dados
 
 def removeZero(campo):
-    for x in range(startCampos2,fimCampos2-1):
-        print(frase[x])
-        if(frase[x] != "0"):
+    zeroEsquerda = 0
+    for x in campo:
+        print(campo[x])
+        if(campo[x] != "0"):
             print("STOP LOOP")
             break
         else:
             zeroEsquerda+=1
             print("zeros a esquerda: ", zeroEsquerda)
         if(zeroEsquerda>0):
-            print(frase)
+            print(campo)
             # novaFrase = frase[:startCampos2] + frase[zeroEsquerda+startCampos2:]
-            print(novaFrase)
-            frase = novaFrase
-    return frase
+            print(campo[zeroEsquerda:])
+            campo = campo[zeroEsquerda:]
+    return campo
 
-
-
-def checkDuplicata(campos):
-    pass
+def removeDuplicata(arquivoEFD,numCampo):
+    array=[]
+    duplicados=[]
+    for i,dados in enumerate(arquivoEFD):
+        # if("02008289VINAGRE MARATA VINHO TINTO 12X500" in dados):
+        #     print(dados)
+        if(dados[numCampo] not in array):
+            array.append(dados[numCampo])
+            # print(array)
+        else:
+            #vetor simples com duplicados
+            duplicados.append(dados[numCampo])
+            
+            del arquivoEFD[i]
+            # for i,elemento in enumerate(dados):
+            #     print(dados)
+            #     dados[i] = ""
+        
+    for i,dados in enumerate(arquivoEFD):
+        for i,campo in enumerate(dados[1:]):
+            if("VINAGRE MARATA VINHO TINTO" in campo):
+                print(dados)
+            if("8289" in campo):
+                print(dados)
+            if(campo!="\n"):
+                dados[i] = "|"+campo
+            else:
+                dados[i] = "|"
+            # TODO FALTA FECHAR UM CAMPO
+            # if(campo==):
+            #     dados[i]="|"+campo+"|"
+        # print(dados)
+    with open("duplicados.csv",'w', encoding="iso-8859-1") as f:
+        for line in duplicados:
+            f.writelines(line + ",")   
+    return arquivoEFD 
