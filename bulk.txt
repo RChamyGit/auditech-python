@@ -1,0 +1,3195 @@
+            if(reg_0002s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0002";
+                            });
+                            await context.BulkInsertAsync(reg_0002s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0005s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0005";
+                            });
+                            await context.BulkInsertAsync(reg_0005s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0015s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0015";
+                            });
+                            await context.BulkInsertAsync(reg_0015s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0100s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0100";
+                            });
+                            await context.BulkInsertAsync(reg_0100s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0150s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0150";
+                            });
+                            await context.BulkInsertAsync(reg_0150s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0175s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0175";
+                            });
+                            await context.BulkInsertAsync(reg_0175s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0190s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0190";
+                            });
+                            await context.BulkInsertAsync(reg_0190s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0200s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0200";
+                            });
+                            await context.BulkInsertAsync(reg_0200s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0205s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0205";
+                            });
+                            await context.BulkInsertAsync(reg_0205s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0206s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0206";
+                            });
+                            await context.BulkInsertAsync(reg_0206s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0210s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0210";
+                            });
+                            await context.BulkInsertAsync(reg_0210s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0220s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0220";
+                            });
+                            await context.BulkInsertAsync(reg_0220s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0300s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0300";
+                            });
+                            await context.BulkInsertAsync(reg_0300s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0305s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0305";
+                            });
+                            await context.BulkInsertAsync(reg_0305s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0400s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0400";
+                            });
+                            await context.BulkInsertAsync(reg_0400s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0450s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0450";
+                            });
+                            await context.BulkInsertAsync(reg_0450s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0460s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0460";
+                            });
+                            await context.BulkInsertAsync(reg_0460s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0500s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0500";
+                            });
+                            await context.BulkInsertAsync(reg_0500s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_0600s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 0600";
+                            });
+                            await context.BulkInsertAsync(reg_0600s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1010s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1010";
+                            });
+                            await context.BulkInsertAsync(reg_1010s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1100s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1100";
+                            });
+                            await context.BulkInsertAsync(reg_1100s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1110s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1110";
+                            });
+                            await context.BulkInsertAsync(reg_1110s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1105s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1105";
+                            });
+                            await context.BulkInsertAsync(reg_1105s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1200s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1200";
+                            });
+                            await context.BulkInsertAsync(reg_1200s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1210s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1210";
+                            });
+                            await context.BulkInsertAsync(reg_1210s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1300s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1300";
+                            });
+                            await context.BulkInsertAsync(reg_1300s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1310s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1310";
+                            });
+                            await context.BulkInsertAsync(reg_1310s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1320s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1320";
+                            });
+                            await context.BulkInsertAsync(reg_1320s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1350s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1350";
+                            });
+                            await context.BulkInsertAsync(reg_1350s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1360s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1360";
+                            });
+                            await context.BulkInsertAsync(reg_1360s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1370s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1370";
+                            });
+                            await context.BulkInsertAsync(reg_1370s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1390s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1390";
+                            });
+                            await context.BulkInsertAsync(reg_1390s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1391s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1391";
+                            });
+                            await context.BulkInsertAsync(reg_1391s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1400s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1400";
+                            });
+                            await context.BulkInsertAsync(reg_1400s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1500s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1500";
+                            });
+                            await context.BulkInsertAsync(reg_1500s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1510s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1510";
+                            });
+                            await context.BulkInsertAsync(reg_1510s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1600s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1600";
+                            });
+                            await context.BulkInsertAsync(reg_1600s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1700s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1700";
+                            });
+                            await context.BulkInsertAsync(reg_1700s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1710s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1710";
+                            });
+                            await context.BulkInsertAsync(reg_1710s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1800s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1800";
+                            });
+                            await context.BulkInsertAsync(reg_1800s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1900s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1900";
+                            });
+                            await context.BulkInsertAsync(reg_1900s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1910s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1910";
+                            });
+                            await context.BulkInsertAsync(reg_1910s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1920s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1920";
+                            });
+                            await context.BulkInsertAsync(reg_1920s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1921s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1921";
+                            });
+                            await context.BulkInsertAsync(reg_1921s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1922s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1922";
+                            });
+                            await context.BulkInsertAsync(reg_1922s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1923s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1923";
+                            });
+                            await context.BulkInsertAsync(reg_1923s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1926s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1926";
+                            });
+                            await context.BulkInsertAsync(reg_1926s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1960s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1960";
+                            });
+                            await context.BulkInsertAsync(reg_1960s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1970s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1970";
+                            });
+                            await context.BulkInsertAsync(reg_1970s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1975s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1975";
+                            });
+                            await context.BulkInsertAsync(reg_1975s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_1980s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk 1980";
+                            });
+                            await context.BulkInsertAsync(reg_1980s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B020s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B020";
+                            });
+                            await context.BulkInsertAsync(reg_B020s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B025s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B025";
+                            });
+                            await context.BulkInsertAsync(reg_B025s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B030s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B030";
+                            });
+                            await context.BulkInsertAsync(reg_B030s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B035s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B035";
+                            });
+                            await context.BulkInsertAsync(reg_B035s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B350s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B350";
+                            });
+                            await context.BulkInsertAsync(reg_B350s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B420s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B420";
+                            });
+                            await context.BulkInsertAsync(reg_B420s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B440s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B440";
+                            });
+                            await context.BulkInsertAsync(reg_B440s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B460s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B460";
+                            });
+                            await context.BulkInsertAsync(reg_B460s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B470s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B470";
+                            });
+                            await context.BulkInsertAsync(reg_B470s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B500s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B500";
+                            });
+                            await context.BulkInsertAsync(reg_B500s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_B510s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk B510";
+                            });
+                            await context.BulkInsertAsync(reg_B510s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C100s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C100";
+                            });
+                            await context.BulkInsertAsync(reg_C100s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C101s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C101";
+                            });
+                            await context.BulkInsertAsync(reg_C101s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C105s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C105";
+                            });
+                            await context.BulkInsertAsync(reg_C105s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C110s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C110";
+                            });
+                            await context.BulkInsertAsync(reg_C110s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C111s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C111";
+                            });
+                            await context.BulkInsertAsync(reg_C111s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C112s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C112";
+                            });
+                            await context.BulkInsertAsync(reg_C112s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C113s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C113";
+                            });
+                            await context.BulkInsertAsync(reg_C113s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C114s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C114";
+                            });
+                            await context.BulkInsertAsync(reg_C114s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C115s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C115";
+                            });
+                            await context.BulkInsertAsync(reg_C115s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C116s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C116";
+                            });
+                            await context.BulkInsertAsync(reg_C116s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C120s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C120";
+                            });
+                            await context.BulkInsertAsync(reg_C120s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C130s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C130";
+                            });
+                            await context.BulkInsertAsync(reg_C130s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C140s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C140";
+                            });
+                            await context.BulkInsertAsync(reg_C140s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C141s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C141";
+                            });
+                            await context.BulkInsertAsync(reg_C141s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C160s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C160";
+                            });
+                            await context.BulkInsertAsync(reg_C160s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C165s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C165";
+                            });
+                            await context.BulkInsertAsync(reg_C165s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C170s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C170";
+                            });
+                            await context.BulkInsertAsync(reg_C170s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C171s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C171";
+                            });
+                            await context.BulkInsertAsync(reg_C171s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C172s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C172";
+                            });
+                            await context.BulkInsertAsync(reg_C172s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C173s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C173";
+                            });
+                            await context.BulkInsertAsync(reg_C173s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C174s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C174";
+                            });
+                            await context.BulkInsertAsync(reg_C174s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C175s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C175";
+                            });
+                            await context.BulkInsertAsync(reg_C175s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C176s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C176";
+                            });
+                            await context.BulkInsertAsync(reg_C176s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C177s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C177";
+                            });
+                            await context.BulkInsertAsync(reg_C177s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C178s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C178";
+                            });
+                            await context.BulkInsertAsync(reg_C178s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C179s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C179";
+                            });
+                            await context.BulkInsertAsync(reg_C179s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C190s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C190";
+                            });
+                            await context.BulkInsertAsync(reg_C190s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C191s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C191";
+                            });
+                            await context.BulkInsertAsync(reg_C191s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C195s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C195";
+                            });
+                            await context.BulkInsertAsync(reg_C195s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C197s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C197";
+                            });
+                            await context.BulkInsertAsync(reg_C197s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C300s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C300";
+                            });
+                            await context.BulkInsertAsync(reg_C300s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C310s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C310";
+                            });
+                            await context.BulkInsertAsync(reg_C310s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C320s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C320";
+                            });
+                            await context.BulkInsertAsync(reg_C320s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C321s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C321";
+                            });
+                            await context.BulkInsertAsync(reg_C321s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C350s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C350";
+                            });
+                            await context.BulkInsertAsync(reg_C350s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C370s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C370";
+                            });
+                            await context.BulkInsertAsync(reg_C370s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C390s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C390";
+                            });
+                            await context.BulkInsertAsync(reg_C390s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C400s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C400";
+                            });
+                            await context.BulkInsertAsync(reg_C400s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C405s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C405";
+                            });
+                            await context.BulkInsertAsync(reg_C405s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C410s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C410";
+                            });
+                            await context.BulkInsertAsync(reg_C410s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C420s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C420";
+                            });
+                            await context.BulkInsertAsync(reg_C420s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C425s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C425";
+                            });
+                            await context.BulkInsertAsync(reg_C425s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C460s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C460";
+                            });
+                            await context.BulkInsertAsync(reg_C460s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C465s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C465";
+                            });
+                            await context.BulkInsertAsync(reg_C465s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C470s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C470";
+                            });
+                            await context.BulkInsertAsync(reg_C470s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C490s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C490";
+                            });
+                            await context.BulkInsertAsync(reg_C490s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C500s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C500";
+                            });
+                            await context.BulkInsertAsync(reg_C500s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C510s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C510";
+                            });
+                            await context.BulkInsertAsync(reg_C510s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C590s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C590";
+                            });
+                            await context.BulkInsertAsync(reg_C590s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C600s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C600";
+                            });
+                            await context.BulkInsertAsync(reg_C600s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C601s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C601";
+                            });
+                            await context.BulkInsertAsync(reg_C601s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C610s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C610";
+                            });
+                            await context.BulkInsertAsync(reg_C610s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C690s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C690";
+                            });
+                            await context.BulkInsertAsync(reg_C690s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C700s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C700";
+                            });
+                            await context.BulkInsertAsync(reg_C700s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C790s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C790";
+                            });
+                            await context.BulkInsertAsync(reg_C790s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C791s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C791";
+                            });
+                            await context.BulkInsertAsync(reg_C791s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C800s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C800";
+                            });
+                            await context.BulkInsertAsync(reg_C800s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C850s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C850";
+                            });
+                            await context.BulkInsertAsync(reg_C850s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C860s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C860";
+                            });
+                            await context.BulkInsertAsync(reg_C860s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_C890s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk C890";
+                            });
+                            await context.BulkInsertAsync(reg_C890s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D100s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D100";
+                            });
+                            await context.BulkInsertAsync(reg_D100s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D101s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D101";
+                            });
+                            await context.BulkInsertAsync(reg_D101s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D110s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D110";
+                            });
+                            await context.BulkInsertAsync(reg_D110s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D120s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D120";
+                            });
+                            await context.BulkInsertAsync(reg_D120s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D130s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D130";
+                            });
+                            await context.BulkInsertAsync(reg_D130s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D140s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D140";
+                            });
+                            await context.BulkInsertAsync(reg_D140s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D150s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D150";
+                            });
+                            await context.BulkInsertAsync(reg_D150s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D160s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D160";
+                            });
+                            await context.BulkInsertAsync(reg_D160s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D161s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D161";
+                            });
+                            await context.BulkInsertAsync(reg_D161s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D162s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D162";
+                            });
+                            await context.BulkInsertAsync(reg_D162s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D170s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D170";
+                            });
+                            await context.BulkInsertAsync(reg_D170s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D180s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D180";
+                            });
+                            await context.BulkInsertAsync(reg_D180s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D190s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D190";
+                            });
+                            await context.BulkInsertAsync(reg_D190s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D195s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D195";
+                            });
+                            await context.BulkInsertAsync(reg_D195s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D197s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D197";
+                            });
+                            await context.BulkInsertAsync(reg_D197s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D300s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D300";
+                            });
+                            await context.BulkInsertAsync(reg_D300s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D310s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D310";
+                            });
+                            await context.BulkInsertAsync(reg_D310s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D350s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D350";
+                            });
+                            await context.BulkInsertAsync(reg_D350s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D355s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D355";
+                            });
+                            await context.BulkInsertAsync(reg_D355s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D360s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D360";
+                            });
+                            await context.BulkInsertAsync(reg_D360s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D365s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D365";
+                            });
+                            await context.BulkInsertAsync(reg_D365s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D370s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D370";
+                            });
+                            await context.BulkInsertAsync(reg_D370s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D390s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D390";
+                            });
+                            await context.BulkInsertAsync(reg_D390s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D400s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D400";
+                            });
+                            await context.BulkInsertAsync(reg_D400s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D410s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D410";
+                            });
+                            await context.BulkInsertAsync(reg_D410s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D411s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D411";
+                            });
+                            await context.BulkInsertAsync(reg_D411s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D420s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D420";
+                            });
+                            await context.BulkInsertAsync(reg_D420s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D500s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D500";
+                            });
+                            await context.BulkInsertAsync(reg_D500s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D510s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D510";
+                            });
+                            await context.BulkInsertAsync(reg_D510s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D530s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D530";
+                            });
+                            await context.BulkInsertAsync(reg_D530s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D590s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D590";
+                            });
+                            await context.BulkInsertAsync(reg_D590s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D600s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D600";
+                            });
+                            await context.BulkInsertAsync(reg_D600s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D610s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D610";
+                            });
+                            await context.BulkInsertAsync(reg_D610s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D690s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D690";
+                            });
+                            await context.BulkInsertAsync(reg_D690s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D695s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D695";
+                            });
+                            await context.BulkInsertAsync(reg_D695s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D696s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D696";
+                            });
+                            await context.BulkInsertAsync(reg_D696s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_D697s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk D697";
+                            });
+                            await context.BulkInsertAsync(reg_D697s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E100s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E100";
+                            });
+                            await context.BulkInsertAsync(reg_E100s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E110s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E110";
+                            });
+                            await context.BulkInsertAsync(reg_E110s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E111s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E111";
+                            });
+                            await context.BulkInsertAsync(reg_E111s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E112s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E112";
+                            });
+                            await context.BulkInsertAsync(reg_E112s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E113s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E113";
+                            });
+                            await context.BulkInsertAsync(reg_E113s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E115s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E115";
+                            });
+                            await context.BulkInsertAsync(reg_E115s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E116s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E116";
+                            });
+                            await context.BulkInsertAsync(reg_E116s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E200s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E200";
+                            });
+                            await context.BulkInsertAsync(reg_E200s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E210s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E210";
+                            });
+                            await context.BulkInsertAsync(reg_E210s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E220s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E220";
+                            });
+                            await context.BulkInsertAsync(reg_E220s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E230s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E230";
+                            });
+                            await context.BulkInsertAsync(reg_E230s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E240s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E240";
+                            });
+                            await context.BulkInsertAsync(reg_E240s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E250s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E250";
+                            });
+                            await context.BulkInsertAsync(reg_E250s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E300s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E300";
+                            });
+                            await context.BulkInsertAsync(reg_E300s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E310s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E310";
+                            });
+                            await context.BulkInsertAsync(reg_E310s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E311s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E311";
+                            });
+                            await context.BulkInsertAsync(reg_E311s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E312s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E312";
+                            });
+                            await context.BulkInsertAsync(reg_E312s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E313s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E313";
+                            });
+                            await context.BulkInsertAsync(reg_E313s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E316s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E316";
+                            });
+                            await context.BulkInsertAsync(reg_E316s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E500s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E500";
+                            });
+                            await context.BulkInsertAsync(reg_E500s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E510s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E510";
+                            });
+                            await context.BulkInsertAsync(reg_E510s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E520s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E520";
+                            });
+                            await context.BulkInsertAsync(reg_E520s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E530s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E530";
+                            });
+                            await context.BulkInsertAsync(reg_E530s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_E531s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk E531";
+                            });
+                            await context.BulkInsertAsync(reg_E531s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_G110s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk G110";
+                            });
+                            await context.BulkInsertAsync(reg_G110s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_G125s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk G125";
+                            });
+                            await context.BulkInsertAsync(reg_G125s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_G126s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk G126";
+                            });
+                            await context.BulkInsertAsync(reg_G126s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_G130s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk G130";
+                            });
+                            await context.BulkInsertAsync(reg_G130s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_G140s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk G140";
+                            });
+                            await context.BulkInsertAsync(reg_G140s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_H001s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk H001";
+                            });
+                            await context.BulkInsertAsync(reg_H001s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_H005s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk H005";
+                            });
+                            await context.BulkInsertAsync(reg_H005s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_H010s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk H010";
+                            });
+                            await context.BulkInsertAsync(reg_H010s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_H020s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk H020";
+                            });
+                            await context.BulkInsertAsync(reg_H020s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_H030s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk H030";
+                            });
+                            await context.BulkInsertAsync(reg_H030s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K100s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K100";
+                            });
+                            await context.BulkInsertAsync(reg_K100s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K200s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K200";
+                            });
+                            await context.BulkInsertAsync(reg_K200s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K210s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K210";
+                            });
+                            await context.BulkInsertAsync(reg_K210s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K215s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K215";
+                            });
+                            await context.BulkInsertAsync(reg_K215s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K220s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K220";
+                            });
+                            await context.BulkInsertAsync(reg_K220s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K230s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K230";
+                            });
+                            await context.BulkInsertAsync(reg_K230s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K235s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K235";
+                            });
+                            await context.BulkInsertAsync(reg_K235s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K250s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K250";
+                            });
+                            await context.BulkInsertAsync(reg_K250s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K255s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K255";
+                            });
+                            await context.BulkInsertAsync(reg_K255s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K260s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K260";
+                            });
+                            await context.BulkInsertAsync(reg_K260s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K265s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K265";
+                            });
+                            await context.BulkInsertAsync(reg_K265s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K270s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K270";
+                            });
+                            await context.BulkInsertAsync(reg_K270s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K275s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K275";
+                            });
+                            await context.BulkInsertAsync(reg_K275s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K280s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K280";
+                            });
+                            await context.BulkInsertAsync(reg_K280s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K290s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K290";
+                            });
+                            await context.BulkInsertAsync(reg_K290s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K291s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K291";
+                            });
+                            await context.BulkInsertAsync(reg_K291s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K292s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K292";
+                            });
+                            await context.BulkInsertAsync(reg_K292s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K300s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K300";
+                            });
+                            await context.BulkInsertAsync(reg_K300s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K301s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K301";
+                            });
+                            await context.BulkInsertAsync(reg_K301s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
+            if(reg_K302s.Count > 0) {
+                        try
+                        {
+                            // report 
+                            App.Current.Dispatcher.Invoke((Action)delegate
+                            {
+                                textblockBlocoAtual.Text = "bulk K302";
+                            });
+                            await context.BulkInsertAsync(reg_K302s);
+                        }
+                        catch (Exception ex)
+                        {
+                            throw;
+                        }
+                 }
