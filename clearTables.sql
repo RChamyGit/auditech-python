@@ -1,3 +1,7 @@
+delete from T01_REG0000;
+delete from T01_PERIODO_IMPORTADO;
+delete from T01_PERIODO_IMPORTADO_C100;
+delete from T01_PERIODO_IMPORTADO_C170;
 delete from T01_REG0002;
 delete from T01_REG0005;
 delete from T01_REG0015;
